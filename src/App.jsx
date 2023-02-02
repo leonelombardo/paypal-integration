@@ -4,7 +4,7 @@ export const App = () => {
   return (
     <>
     <div className="min-w-screen w-full min-h-screen h-screen flex flex-col justify-between items-center gap-12 bg-white">
-      <div className="flex flex-col justify-center items-center h-full p-12 gap-6">
+      <div className="flex flex-col items-center p-12 gap-6">
         <div className="flex flex-col items-center gap-4 max-w-[500px]">
           <h1 className="text-black text-5xl xs:text-7xl md:text-8xl text-center font-bold">PayPal Integration</h1>
           <p className="text-black text-lg xs:text-xl md:text-2xl text-center opacity-50">Start making payments around the world in the safest way both you and the company which uses PayPal.</p>
